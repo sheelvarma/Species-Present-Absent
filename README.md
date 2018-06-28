@@ -3,15 +3,15 @@
 
 # Introduction
 This dataset is taken as a reference from  Machine Learning Certification Course in R programming language. This is a small dataset inlvolving 9 variables related to presence of species at land with slope, roughness, Avgtemp, etc. The variables include:
- -pb: Presence background 1- Species present , 0- Absent
- -Altitude
- -Aspect1
- -land
- -precipitation
- -roughness
- -slope
- -tempAvg 
- -tempMin
+  -pb: Presence background 1- Species present , 0- Absent
+  -Altitude
+  -Aspect1
+  -land
+  -precipitation
+  -roughness
+  -slope
+  -tempAvg 
+  -tempMin
  
  
  # Working
